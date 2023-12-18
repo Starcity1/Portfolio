@@ -1,4 +1,7 @@
-# portfolio
+# Portfolio
+Here is the code of my professional portfolio! The portfolio was build mainly by Vue.
+
+# Useful Commands:
 
 ## Project setup
 ```
@@ -22,3 +25,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
